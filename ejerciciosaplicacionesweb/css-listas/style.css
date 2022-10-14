@@ -5,3 +5,11 @@ ul{
 ol{
     list-style-image: url(media/imagen.jpeg);
 }
+
+dt.personalizado{
+    background-color: aquamarine;
+    border-color: blue;
+    border-style: dashed;
+    border-width: 3px;
+    padding: 0.5%;
+}
